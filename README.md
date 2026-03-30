@@ -54,6 +54,6 @@ Discord Bot Token (with Voice permissions)
 
 Technologies
 
-discord.py
-yt-dlp
-python-dotenv
+- discord.py
+- yt-dlp
+- python-dotenv
