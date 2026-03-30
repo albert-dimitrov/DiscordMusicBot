@@ -30,12 +30,12 @@ A simple yet fun YouTube music bot for Discord built with **discord.py** and **y
    git clone https://github.com/albert-dimitrov/DiscordMusicBot.git
    cd DiscordMusicBot
 
-Install required packagesBashpip install -r requirements.txt
-Create .env file
-Create a file named .env in the root folder and add your bot token:envDISCORD_TOKEN=your_discord_bot_token_here
-Install FFmpeg
-Download and install FFmpeg
-Make sure it's added to your system PATH
+- Install required pip install -r requirements.txt
+- Create .env file
+- Create a file named .env in the root folder and add your bot token:envDISCORD_TOKEN=your_discord_bot_token_here
+- Install FFmpeg
+- Download and install FFmpeg
+- Make sure it's added to your system PATH
 
 (Recommended) Install Deno for better YouTube support.
 Run the bot
